@@ -2,7 +2,7 @@
 
 This is the PyTorch Implementation for the paper VRKG4Rec (WSDM'23):
 
-> Lingyun Lu, Bang Wang, Zizhuo Zhang, Shenghao Liu and Han Xu. VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation.  [Paper in arXiv](https://arxiv.org/). In WSDM'2023.
+> Lingyun Lu, Bang Wang, Zizhuo Zhang, Shenghao Liu and Han Xu. VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation. 
 
 ## Introduction
 

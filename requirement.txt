@@ -1,0 +1,10 @@
+pytorch == 1.10.1
+networkx==2.5.1
+numpy==1.22.4
+pandas==1.4.3
+scikit-learn==1.1.1
+scipy==1.7.0
+torch==1.9.0
+torch-cluster==1.5.9
+torch-scatter==2.0.9
+torch-sparse==0.6.12

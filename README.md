@@ -14,7 +14,11 @@ local weighted smoothing (LWS) mechanism for user and item encoding.
 If you want to use our codes and datasets in your research, please cite:
 
 ```
-@inproceedings{
+@article{lu2022virtual,
+  title={Virtual Relational Knowledge Graphs for Recommendation},
+  author={Lu, Lingyun and Wang, Bang and Zhang, Zizhuo and Liu, Shenghao and Xu, Han},
+  journal={arXiv preprint arXiv:2204.01089},
+  year={2022}
 }
 ```
 

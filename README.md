@@ -1,6 +1,6 @@
 # VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation
 
-This is the PyTorch Implementation for the paper VRKG4Rec (WSDM'23):
+This is the PyTorch Implementation for the paper [VRKG4Rec (WSDM'23)](https://dl.acm.org/doi/10.1145/3539597.3570482):
 
 > Lingyun Lu, Bang Wang, Zizhuo Zhang, Shenghao Liu and Han Xu. VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation. 
 
@@ -14,11 +14,16 @@ local weighted smoothing (LWS) mechanism for user and item encoding.
 If you want to use our codes and datasets in your research, please cite:
 
 ```
-@article{lu2022virtual,
-  title={Virtual Relational Knowledge Graphs for Recommendation},
-  author={Lu, Lingyun and Wang, Bang and Zhang, Zizhuo and Liu, Shenghao and Xu, Han},
-  journal={arXiv preprint arXiv:2204.01089},
-  year={2022}
+@inproceedings{10.1145/3539597.3570482,
+author = {Lu, Lingyun and Wang, Bang and Zhang, Zizhuo and Liu, Shenghao and Xu, Han},
+title = {VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation},
+year = {2023},
+isbn = {9781450394079},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3539597.3570482},
+doi = {10.1145/3539597.3570482},
+booktitle = {Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining},
+series = {WSDM '23}
 }
 ```
 
